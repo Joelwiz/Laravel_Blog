@@ -1,0 +1,17 @@
+
+Nota:	7,80 / 10,00
+
+Errores:
+eje1 (8,5/10)
+	- Muestra error al entrar en los parámetros.
+	- No tiene limpiar histórico.
+	- Errores al introducir letras. Validaciones incorrectas en el servidor.
+	- El formulario no tiene boton para limpiar datos.
+	- Diseño bien.
+	- Repites código en la validaciones.
+	- Abusas de la asignacion de html en las variables.
+
+eje2 (5/10)
+	- No tienes en cuenta los registros por pagina por lo que no se generan bien las páginas
+
+.

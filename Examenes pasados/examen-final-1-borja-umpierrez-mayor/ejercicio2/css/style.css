@@ -1,0 +1,27 @@
+h1 {
+    margin-left: 20px;
+}
+
+ul {
+    margin: 20px;
+    color: blue;
+}
+
+a {
+    float: left;
+    margin: 0;
+    padding: 2px 5px;
+    width: auto;
+    border: 1px solid black;
+}
+
+.actual {
+    font-weight: bold !important;
+    color: red !important;
+}
+
+label, input {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+}

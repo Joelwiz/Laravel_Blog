@@ -1,0 +1,37 @@
+.title{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+
+.buttonStyle7{
+    text-decoration: none;
+    font-weight: 200;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: #005BBB;
+    margin-bottom: -10em;
+    box-shadow: 1px 1px 10px #666;
+
+}
+.sub1{
+    text-align: center;
+}
+
+.sub2{
+    text-align: center;
+}
+
+.sub3{
+    text-align: center;
+}
+
+.img{
+    margin-left: 38%;
+    max-height: 300px;
+    max-width: 300px;
+}

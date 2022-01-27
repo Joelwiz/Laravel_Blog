@@ -1,0 +1,21 @@
+{
+  "name": "jjsesus/mvc",
+  "description": "Patrón MVC",
+  "authors": [
+    {
+      "name": "Jose Jesus",
+      "email": "jjsesus@gmail.com"
+    }
+  ],
+  "require": {
+    "dompdf/dompdf": "^1.1",
+    "eftec/bladeone": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core/",
+      "App\\Controllers\\": "app/controllers/",
+      "App\\Models\\": "app/models/"
+    }
+  }
+}
